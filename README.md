@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:lkostyrka17@gmail.com)
+[<img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:web.smartdev22@gmail.com)
 [<img src="https://img.shields.io/badge/skype-%236677B5.svg?&style=for-the-badge&logo=skype&logoColor=white" />](https://web.skype.com)
 
 #### ✨ Technical Stacks ✨
