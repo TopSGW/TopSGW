@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 style="color🟦">AI FullStack developer</h1>
+  AI FullStack developer
 </p>
 <br />
 
