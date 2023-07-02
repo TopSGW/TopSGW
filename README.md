@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center" color="blue">
   AI FullStack developer
-</p>
+</h1>
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthlo&label=Profile%20views&color=0e75b6&style=flat" alt="arthlo" /> </p>
