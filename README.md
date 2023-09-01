@@ -12,6 +12,7 @@
 
 #### ✨ Technical Stacks ✨
 * 🥇 Machine Learning, Deep Learning, Natural Language Processing, Data Science, Computer Vision
+* 🥇 Mobile Development: Java, Kotlin, Object-C, Swift
 
 * 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) ), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/), [Quasar](https://quasar.dev/), [Vuesax](https://lusaxweb.github.io/vuesax/), [Vuetify](https://vuetifyjs.com/)), [Angular](https://angular.io/) ( js, 2.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0 ), [Shopify](https://shopify.com/)
 * 🥇 Backend Development: [Node.js](https://nodejs.org) ( [Express.js](https://expressjs.com/), [Koa.js](https://koajs.com/), [Nest.js](https://nestjs.com/)), [PHP](https://www.php.net/) ( [Laravel](https://laravel.com/), [CodeIgnitor](https://codeigniter.com/) ), [Python](https://www.python.org/) ( [Django](https://www.djangoproject.com/), [flask](https://flask.palletsprojects.com/) )
