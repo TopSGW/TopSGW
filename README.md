@@ -1,5 +1,5 @@
 <h1 align="center" color="blue">
-  FullStack developer
+  FullStack Developer
 </h1>
 <br />
 
