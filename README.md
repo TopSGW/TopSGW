@@ -1,5 +1,5 @@
 <h1 align="center" color="blue">
-  AI FullStack developer
+  FullStack developer
 </h1>
 <br />
 
